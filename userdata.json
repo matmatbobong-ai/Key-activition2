@@ -17,4 +17,16 @@
         "expirydate": "15-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "1038a9158837af3e",
+        "key": "pukimon",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9a055e0f75bf76bd",
+        "key": "kantooth",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
+    },
 ]

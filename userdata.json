@@ -29,4 +29,11 @@
         "expirydate": "15-12-2025",
         "Allowoffline": false
     },
+    
+    {
+        "device_id": "d095abdcf7324d97",
+        "key": "bahupukimo",
+        "expirydate": "11-12-2025",
+        "Allowoffline": false
+    },
 ]

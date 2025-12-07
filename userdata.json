@@ -16,5 +16,11 @@
         "key": "almuranas",
         "expirydate": "8-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1038a9158837af3e",
+        "key": "almuranas",
+        "expirydate": "8-12-2025",
+        "Allowoffline": false
     }
 ]

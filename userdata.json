@@ -47,4 +47,10 @@
         "expirydate": "15-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "1038a9158837af3e",
+        "key": "pukini",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
+    },
 ]

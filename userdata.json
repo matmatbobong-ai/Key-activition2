@@ -53,4 +53,10 @@
         "expirydate": "15-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "1038a9158837af3e",
+        "key": "titekomasarap",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
 ]
